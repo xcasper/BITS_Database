@@ -1,0 +1,9 @@
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\bin\Debug\BITS_Database.dacpac
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\bin\Debug\BITS_Database.dll
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\bin\Debug\BITS_Database.pdb
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\obj\Debug\BITS_Database.dll
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\obj\Debug\BITS_Database.pdb
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\obj\Debug\Model.xml
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\obj\Debug\refactor.xml
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\obj\Debug\postdeploy.sql
+C:\Users\Craig\Documents\GitHub\BITS_Database\BITS_Database\obj\Debug\predeploy.sql
